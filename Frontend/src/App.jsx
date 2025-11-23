@@ -18,7 +18,7 @@ import Shome from "./Seller/Shome";
 import Myproducts from "./Seller/MyProducts";
 import Addbook from "./Seller/Addbook";
 import Orders from "./Seller/Orders";
-import Uhome from "./User/UHome";
+import Uhome from "./User/Uhome";
 import Products from "./User/Products";
 import OrderItem from "./User/OrderItem";
 import Myorders from "./User/MyOrders";
